@@ -1,0 +1,22 @@
+{
+  "name": "shakesearch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd web && npm install && ./node_modules/.bin/react-scripts build",
+    "start": "cd web && ./node_modules/.bin/react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalmanZ10/shakesearch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/SalmanZ10/shakesearch#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {}
+}
